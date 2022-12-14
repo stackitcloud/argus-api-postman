@@ -16,4 +16,4 @@ https://apitransform.com/how-to-import-a-collection-into-postman/
 
 Add the needed changes like in chapter **Configuring the Collection in Postman** in the page:
 
-https://docs.stackit.cloud/display/DRAFT/API+Postman+-+From+Swagger+to+Postman
+https://docs.stackit.cloud/stackit/en/api-postman-collection-argus-82477633.html
